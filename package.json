@@ -1,0 +1,19 @@
+{
+  "name": "freshmeal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnirudhVats975/foodApp.git"
+  },
+  "author": "anirudh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnirudhVats975/foodApp/issues"
+  },
+  "homepage": "https://github.com/AnirudhVats975/foodApp#readme"
+}
